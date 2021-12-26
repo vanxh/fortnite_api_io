@@ -1,6 +1,6 @@
 # Fortnite
 
-An api wrapper for FortniteApi.io(https://fortniteapi.io) in dart.
+An api wrapper for [FortniteApi.io](https://fortniteapi.io) in dart.
 
 [![pub.dev Version](https://img.shields.io/pub/v/fortnite_api_io.svg)](https://pub.dev/packages/fortnite_api_io/)
 [![Discord Server](https://discord.com/api/guilds/797736897941995540/widget.png)](https://discord.gg/fishstick)
